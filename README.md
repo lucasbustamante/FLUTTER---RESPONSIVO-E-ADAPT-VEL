@@ -108,7 +108,7 @@ return Center(child: Text('Desktop ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image1.jpg" width="400" />
+  <img src="/images/image1.jpg" width="800" />
 Modo desktop
 
 ```dart
@@ -120,7 +120,7 @@ return Center(child: Text('Tablet ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image2.jpg" width="400" />
+  <img src="/images/image2.jpg" width="800" />
 Modo tablet
 
 ```dart
@@ -132,7 +132,7 @@ return Center(child: Text('Mobile ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image3.png" width="400" />
+  <img src="/images/image3.png" width="200" />
 Modo mobile
 
 
