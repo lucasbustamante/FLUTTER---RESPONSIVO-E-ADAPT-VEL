@@ -132,7 +132,7 @@ return Center(child: Text('Mobile ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image3.png" width="200" />
+  <img src="/images/image3.png" width="300" />
 Modo mobile
 
 
