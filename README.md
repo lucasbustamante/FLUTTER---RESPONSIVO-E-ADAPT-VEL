@@ -108,7 +108,7 @@ return Center(child: Text('Desktop ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image1.jpg" width="250" />
+  <img src="/images/image1.jpg" width="400" />
 Modo desktop
 
 ```dart
@@ -120,7 +120,7 @@ return Center(child: Text('Tablet ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image2.jpg" width="250" />
+  <img src="/images/image2.jpg" width="400" />
 Modo tablet
 
 ```dart
@@ -132,12 +132,12 @@ return Center(child: Text('Mobile ${deviceSize(context).toInt()}'));
 }
 ```
 <p float="left">
-  <img src="/images/image3.jpg" width="250" />
+  <img src="/images/image3.png" width="400" />
 Modo mobile
+
 
 Execute o aplicativo e ajuste a janela para ver as diferentes saídas.
 
-Saída para tamanho da tela do celular:
 
 
 Fonte: https://acervolima.com/flutter-aplicativos-responsivos-e-adaptaveis/
